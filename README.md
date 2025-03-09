@@ -10,10 +10,10 @@ Since I need to use the keyboard with two languages/layouts, I use this app for 
 
 ### hypr
 
-Yeah, I'm using hyprland... well, some of styles and ideas I "stole" from @typercraft channel at [YouTube](). Another ideas I get from @Tecnosob [YouTube channel](https://www.youtube.com/@Tecnosob) (it's a nice channel with content in brazilian portuguese about arch linux specially), but he doesn't have github repository (yet), but I'm very grateful for the knowledge shared in your videos.
+Yeah, I'm using hyprland... well, some of styles and ideas I "stole" from @typecraft-dev channel at [YouTube](). Another ideas I get from @Tecnosob [YouTube channel](https://www.youtube.com/@Tecnosob) (it's a nice channel with content in brazilian portuguese about arch linux specially), but he doesn't have github repository (yet), but I'm very grateful for the knowledge shared in your videos.
 
 ### kitty
-More inspiration in @typercraft videos.
+More inspiration in @typecraft-dev videos.
 
 ### nvim
 I confess that I didn't get used to using the neovim/vim. I prefer to use nano, but neovim offers a lot of customization and makes the appearence much nicer and cleaner. I promise that I'll try to use it more.
