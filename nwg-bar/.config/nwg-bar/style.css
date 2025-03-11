@@ -6,13 +6,15 @@ window {
 /* Outer bar container, takes all the window width/height */
 #outer-box {
 	border-radius: 20px;
+	background-color: rgb(136, 57, 239);
 	border: 20px;
 	opacity: 0.65
 }
 
 /* Inner bar container, surrounds buttons */
 #inner-box {
-	background-color: rgba (0, 0, 0,0.65);
+/*	background-color: rgba (0, 0, 0,0.65);*/
+/*	background-color: #8839ef; */
 	border-radius: 20px;
 	border-style: none;
 	border-width: 1px;
