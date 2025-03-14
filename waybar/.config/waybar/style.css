@@ -1,4 +1,6 @@
 /* Animations */
+@import "colors/catppuccin.css";
+
 @keyframes blink {
   to {
     background-color: #ffffff;
@@ -7,6 +9,7 @@
 }
 
 * {
+  color: @text;
   border: none;
   border-radius: 0;
   font-family: JetBrainsMonoNL Nerd Font;
@@ -16,8 +19,9 @@
 }
 
 window#waybar {
-  background-color: transparent;
+/*  background-color: transparent; */
   color: white;
+  background-color: transparent;
 }
 
 #workspaces {
@@ -38,8 +42,8 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  background-color: #7dcfff;
-  color: #24283b;
+  background-color: #43055c; 
+  color: #cacfe6;
   border-radius: 2px;
 }
 
