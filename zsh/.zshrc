@@ -32,6 +32,7 @@ HISTSIZE=1000
 SAVEHIST=1000
 setopt appendhistory
 
-
+alias vim="nvim"
+alias vi="nvim"
 
 #export HYPRSHOT_DIR = /home/joao/Pictures/screenshots/
