@@ -19,9 +19,15 @@ More inspiration in @typecraft-dev videos.
 I confess that I didn't get used to using the neovim/vim. I prefer to use nano, but neovim offers a lot of customization and makes the appearence much nicer and cleaner. I promise that I'll try to use it more.
 I'm using "only" AstroVim customization.. maybe in future I'll use another plugins to make it more powerful.
 
+#### Some screenshots
+<img src="scrn-nvim-01.png" alt="Python example" width=900/>
+
+<img src="scrn-nvim-02.png" alt="Another python example" width=900>
+
 ### rofi
 
 I followed one of the tricks that **Tecnosob** gave and styled it the appearence
+
 
 ### nwg-bar
 
