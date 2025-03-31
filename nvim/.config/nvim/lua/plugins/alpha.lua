@@ -152,15 +152,12 @@ end
 
 return {
   "goolord/alpha-nvim",
-<<<<<<< HEAD
   lazy = true,
   dependencies = {
     "nvim-tree/nvim-web-devicons",
   },
 
-=======
   event = "VimEnter",
->>>>>>> nvim
   config = function()
     require("alpha").setup {
       layout = layout(),
