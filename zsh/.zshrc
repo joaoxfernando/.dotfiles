@@ -34,6 +34,9 @@ setopt appendhistory
 
 alias vim="nvim"
 alias vi="nvim"
-
+bindkey "^C" delete-char
+bindkey "^[[3~" delete-char
 
 #export HYPRSHOT_DIR = /home/joao/Pictures/screenshots/
+
+#export PATH=/usr/local/texlive/2025/bin/x86_64-linux
