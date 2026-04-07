@@ -40,3 +40,8 @@ bindkey "^[[3~" delete-char
 #export HYPRSHOT_DIR = /home/joao/Pictures/screenshots/
 
 #export PATH=/usr/local/texlive/2025/bin/x86_64-linux
+#
+
+if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
+  tmux attach-session -t zsh || tmux new-session -s zsh
+fi
